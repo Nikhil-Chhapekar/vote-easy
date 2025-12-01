@@ -6,7 +6,7 @@ import partySymbol2 from "@/assets/party-symbol-2.png";
 import handSymbol from "@/assets/hand-symbol.png";
 import candidatePhoto1 from "@/assets/candidate-photo-1.png";
 import candidatePhoto2 from "@/assets/candidate-photo-2.png";
-import dummy from "@/assets/dummy.png";
+import dummy from "@/assets/Dummy.png";
 import misar from "@/assets/misar.png";
 import { ArrowRight, Shield } from "lucide-react";
 
